@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexandrialahvac.com/sitemap.xml
